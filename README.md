@@ -1,4 +1,5 @@
 # Appli
+Ceci est une copie du dépot "Appli_PHP_BDD" AVANT l'instauration de fonctions liées à la BDD. Pour voir l'historique des commit, se diriger vers "Appli_PHP_BDD".
 Création d'une application PHP permettant l'ajout de produits vers un panier.
 L'utilisateur doit remplir un formulaire descriptif du produit avant de le soumettre (Nom, prix, quantité).
 Les informations sont stockées dans la superglobale $_SESSION, et affichées dans un tableau récapitulatif.
